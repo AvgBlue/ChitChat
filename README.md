@@ -1,4 +1,4 @@
-# Advanced-Programming-2-Android
+# ChitChat - Cross-platform Messaging App
 
 Welcome to ChitChat, our last assignment chat website/app.
 
